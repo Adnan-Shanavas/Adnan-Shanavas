@@ -35,8 +35,8 @@ I am a dedicated cybersecurity engineering student with a solid background in ne
 </div>
 <div align="center">
 
-![abcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-shanavas&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-shanavas&layout=compact&theme=radical&hide_border=true)
+![abcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-Shanavas&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Shanavas&layout=compact&theme=radical&hide_border=true)
 
 </div>
 <div align="center">
